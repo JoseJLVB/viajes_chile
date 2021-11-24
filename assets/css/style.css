@@ -1,0 +1,9 @@
+.col-md-12 {
+    background-color: rgb(51, 172, 160);
+}
+
+hr {
+    height: 10px;
+    background-color: rgb(51, 172, 160);
+    border: none;
+}
