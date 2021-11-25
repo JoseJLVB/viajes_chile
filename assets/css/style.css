@@ -2,8 +2,16 @@
     background-color: rgb(51, 172, 160);
 }
 
-hr {
-    height: 10px;
+hr.line {
+    height: 4px;
     background-color: rgb(51, 172, 160);
     border: none;
+}
+
+.card {
+    background-color: rgb(51, 172, 160);
+}
+
+.bgfoot {
+    background-color: rgb(51, 172, 160);
 }
